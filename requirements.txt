@@ -1,0 +1,11 @@
+pandas
+tqdm
+selenium
+requests
+openpyxl
+Logbook
+fake-useragent
+tejapi
+bs4
+loguru
+pyfiglet
